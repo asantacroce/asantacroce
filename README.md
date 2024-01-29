@@ -2,7 +2,7 @@
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/andresantacroce/)
 
-[![My Personal Website](https://img.shields.io/badge/My%20Personal%20Website-Visit%20Now-blue)](https://andresantacroce.com)
+[![Personal Website](https://img.shields.io/badge/My%20Personal%20Website-Visit%20Now-blue)](https://andresantacroce.com)
 
 [![Cloud Ninja](https://img.shields.io/badge/Cloud%20Ninja%20Website-Visit%20Now-blue)](https://cloudninja.it)
 
@@ -10,7 +10,7 @@
 
 [![Yooth](https://img.shields.io/badge/Yooth-Visit%20Now-green)](https://yooth.it)
 
-## **I'm a Senior Software Architect and Co-founder, Microsoft Azure addicted.**
+## **I'm a Senior Software Architect and Co-founder, Microsoft Azure addicted**
 
 - 🗓️ **I’m currently working on**: Developing Products aligned on latest technolgies and Architectural Standards. Helping Startups to ignite their Business with solid foundation
 - 🎓 **Ask me about**: .NET, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, CI/CD, Microsoft Azure
