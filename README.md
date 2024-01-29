@@ -12,6 +12,6 @@
 
 ## **I'm a Senior Software Architect and Co-founder, Microsoft Azure addicted**
 
-- 🗓️ **I’m currently working on**: Developing Products aligned on latest technolgies and Architectural Standards. Helping Startups to ignite their Business with solid foundation
+- 🗓️ **I’m currently working on**: Developing Products aligned on latest Cloud technologies and Architectural Standards. Helping Startups to ignite their Business with solid foundation
 - 🎓 **Ask me about**: .NET, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, CI/CD, Microsoft Azure
 - ✉️ **How to reach me**: Reach out and connect on LinkedIn! 👆
