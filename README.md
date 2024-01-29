@@ -4,7 +4,7 @@
 
 [![Personal Website](https://img.shields.io/badge/My%20Personal%20Website-Visit%20Now-blue)](https://andresantacroce.com)
 
-[![Cloud Ninja](https://img.shields.io/badge/Cloud%20Ninja%20Website-Visit%20Now-blue)](https://cloudninja.it)
+[![Cloud Ninja](https://img.shields.io/badge/Cloud%20Ninja%20Website-Visit%20Now-blue)](https://cloudninja.it/en)
 
 [![EmyBot](https://img.shields.io/badge/EmyBot-Visit%20Now-green)](https://emybot.it)
 
