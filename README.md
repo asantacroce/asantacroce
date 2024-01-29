@@ -2,7 +2,7 @@
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/andresantacroce/)
 
-[![My Personal Website](https://img.shields.io/badge/My%20Peronal%20Website-Visit%20Now-blue)](https://andresantacroce.com)
+[![My Personal Website](https://img.shields.io/badge/My%20Personal%20Website-Visit%20Now-blue)](https://andresantacroce.com)
 
 [![EmyBot](https://img.shields.io/badge/EmyBot-Visit%20Now-green)](https://emybot.it)
 
