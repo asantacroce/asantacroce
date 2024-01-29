@@ -1,12 +1,12 @@
 ### Hi there, I'm Andrè Dominic Santacroce! 👋
 
-[![My Website](https://img.shields.io/badge/My%20Website-Visit%20Now-blue)](https://andresantacroce.com)
-
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/andresantacroce/)
 
-[![My Website](https://img.shields.io/badge/My%20Website-Visit%20Now-blue)](https://emybot.it)
+[![My Personal Website](https://img.shields.io/badge/My%20Website-Visit%20Now-blue)](https://andresantacroce.com)
 
-[![My Website](https://img.shields.io/badge/My%20Website-Visit%20Now-blue)](https://yooth.it)
+[![EmyBot](https://img.shields.io/badge/My%20Website-Visit%20Now-green)](https://emybot.it)
+
+[![Yooth](https://img.shields.io/badge/My%20Website-Visit%20Now-green)](https://yooth.it)
 
 ## **I'm a Senior Software Architect and Co-founder, Microsoft Azure addicted.**
 
